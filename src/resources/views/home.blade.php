@@ -84,16 +84,16 @@
                         <a class="login-popup" title="Login">Login</a>
                         <a class="signup-popup" title="Sign Up">Sign Up</a>
                     </div>
-                    <a href="cart.html" class="cart-icon">
+                    <a href="cart" class="cart-icon">
                         <i class="fas fa-shopping-cart"></i>
                     </a>
                 </div>
                 <nav class="main-navbar d-flex justify-content-end">
                     <ul class="navbar-menu">
                         <li class="nav-item"><a href="index.html">Trang chủ</a></li>
-                        <li class="nav-item"><a href="products.html">Sản phẩm</a></li>
+                        <li class="nav-item"><a href="products">Sản phẩm</a></li>
                         <li class="nav-item"><a href="#">About us</a></li>
-                        <li class="nav-item"><a href="blogs.html">Blog</a></li>
+                        <li class="nav-item"><a href="blogs">Blog</a></li>
                         <li class="nav-item"><a href="#">Liên hệ</a></li>
                     </ul>
                 </nav>
@@ -117,7 +117,7 @@
             <img src="./img/logo-alt.png" alt="">
             <ul class="navmobi">
                 <li><a href="index.html">Trang chủ</a></li>
-                <li><a href="products.html">Sản phẩm</a></li>
+                <li><a href="products">Sản phẩm</a></li>
                 <li><a href="#">About us</a></li>
                 <li><a href="#">Blog</a></li>
                 <li><a href="#">Liên hệ</a></li>
@@ -279,10 +279,10 @@
                                         <i class="fas fa-tags"></i>
                                         <ul>
                                             <li>
-                                                <a href="products.html">Hành động</a>
+                                                <a href="products">Hành động</a>
                                             </li>
                                             <li>
-                                                <a href="products.html">Phiêu lưu</a>
+                                                <a href="products">Phiêu lưu</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -293,10 +293,10 @@
                                 </div>
                                 <div class="button d-flex justify-content-center">
                                     <div class="slider-button button-style">
-                                        <a href="item.html">Chi tiết</a>
+                                        <a href="item">Chi tiết</a>
                                     </div>
                                     <div class="slider-button button-style">
-                                        <a href="cart.html">Mua ngay</a>
+                                        <a href="cart">Mua ngay</a>
                                     </div>
                                 </div>
                             </div>
@@ -321,10 +321,10 @@
                                     <i class="fas fa-tags"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html">Hành động</a>
+                                            <a href="products">Hành động</a>
                                         </li>
                                         <li>
-                                            <a href="products.html">Phiêu lưu</a>
+                                            <a href="products">Phiêu lưu</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -335,10 +335,10 @@
                             </div>
                             <div class="button d-flex justify-content-center">
                                 <div class="button-style">
-                                    <a href="item.html">Chi tiết</a>
+                                    <a href="item">Chi tiết</a>
                                 </div>
                                 <div class="button-style">
-                                    <a href="cart.html">Mua ngay</a>
+                                    <a href="cart">Mua ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -354,10 +354,10 @@
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html">Playstation</a>
+                                            <a href="products">Playstation</a>
                                         </li>
                                         <li>
-                                            <a href="products.html">Steam</a>
+                                            <a href="products">Steam</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -365,10 +365,10 @@
                                     <i class="fas fa-tags"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html">Hành động</a>
+                                            <a href="products">Hành động</a>
                                         </li>
                                         <li>
-                                            <a href="products.html">Phiêu lưu</a>
+                                            <a href="products">Phiêu lưu</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -379,10 +379,10 @@
                             </div>
                             <div class="button d-flex justify-content-center">
                                 <div class="button-style">
-                                    <a href="item.html">Chi tiết</a>
+                                    <a href="item">Chi tiết</a>
                                 </div>
                                 <div class="button-style">
-                                    <a href="cart.html">Mua ngay</a>
+                                    <a href="cart">Mua ngay</a>
                                 </div>
                             </div>
                         </div>
@@ -401,7 +401,7 @@
                         Với nhiều lựa chọn từ AAA cho đến indie, thuộc mọi thể loại. Hãy tận hưởng các ưu đãi độc quyền, tự động cập nhật, cùng các tính năng tuyệt vời khác.
                     </div>
                     <div class="button-style-1 uppercase d-flex">
-                        <a href="./products.html">Sản phẩm</a>
+                        <a href="products">Sản phẩm</a>
                     </div>
                 </div>
             </div>
@@ -475,16 +475,16 @@
                 <div class="game-list d-flex flex-wrap justify-content-between">
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item1.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -492,17 +492,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Dead space 3</a>
+                                <a href="item" title="Dead Space 3">Dead space 3</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -515,16 +515,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item2.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -532,17 +532,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 2</a>
+                                <a href="item" title="Dead Space 3">Game 2</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -555,16 +555,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item3.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -572,17 +572,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 3</a>
+                                <a href="item" title="Dead Space 3">Game 3</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -595,16 +595,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item4.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -612,17 +612,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 4</a>
+                                <a href="item" title="Dead Space 3">Game 4</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -635,16 +635,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item1.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -652,17 +652,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Dead space 3</a>
+                                <a href="item" title="Dead Space 3">Dead space 3</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -675,16 +675,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item2.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -692,17 +692,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 2</a>
+                                <a href="item" title="Dead Space 3">Game 2</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -715,16 +715,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item3.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -732,17 +732,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 3</a>
+                                <a href="item" title="Dead Space 3">Game 3</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -755,16 +755,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item4.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -772,17 +772,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 4</a>
+                                <a href="item" title="Dead Space 3">Game 4</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -795,23 +795,23 @@
                     </div>
                 </div>
                 <div class="button-style-2 game-list-button d-flex justify-content-center uppercase">
-                    <a href="./products.html">Tất cả trò chơi</a>
+                    <a href="products">Tất cả trò chơi</a>
                 </div>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="categorized-origin">
                 <div class="game-list d-flex flex-wrap">
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item1.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -819,17 +819,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Dead space 3</a>
+                                <a href="item" title="Dead Space 3">Dead space 3</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -842,16 +842,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item2.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -859,17 +859,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 2</a>
+                                <a href="item" title="Dead Space 3">Game 2</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -882,16 +882,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item3.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -899,17 +899,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 3</a>
+                                <a href="item" title="Dead Space 3">Game 3</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -922,16 +922,16 @@
                     </div>
                     <div class="game col-sm-6 col-md-3">
                         <div class="poster">
-                            <a href="item.html" title="Dead Space 3">
+                            <a href="item" title="Dead Space 3">
                                 <img src="./img/item4.jpg" alt="Dead Space 3" />
                             </a>
                             <div class="gerne d-flex align-items-center uppercase">
                                 <ul>
                                     <li>
-                                        <a href="products.html" title="Adventure">Phiêu lưu</a>
+                                        <a href="products" title="Adventure">Phiêu lưu</a>
                                     </li>
                                     <li>
-                                        <a href="products.html" title="FPS">FPS</a>
+                                        <a href="products" title="FPS">FPS</a>
                                     </li>
                                 </ul>
                                 <i class="fas fa-tags"></i>
@@ -939,17 +939,17 @@
                         </div>
                         <div class="content">
                             <div class="game-title uppercase">
-                                <a href="item.html" title="Dead Space 3">Game 4</a>
+                                <a href="item" title="Dead Space 3">Game 4</a>
                             </div>
                             <ul class="game-detail">
                                 <li class="platform d-flex align-items-center">
                                     <i class="fas fa-tv"></i>
                                     <ul>
                                         <li>
-                                            <a href="products.html" title="Steam">Steam</a>
+                                            <a href="products" title="Steam">Steam</a>
                                         </li>
                                         <li>
-                                            <a href="products.html" title="Playstation">Playstation</a>
+                                            <a href="products" title="Playstation">Playstation</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -1032,10 +1032,10 @@
                 </div>
                 <div class="button d-flex">
                     <div class="button-style-1 uppercase btn btn-left">
-                        <a href="item.html">Xem thêm</a>
+                        <a href="item">Xem thêm</a>
                     </div>
                     <div class="button-style-1 uppercase btn btn-right">
-                        <a href="cart.html">Mua ngay</a>
+                        <a href="cart">Mua ngay</a>
                     </div>
                 </div>
             </div>
@@ -1116,7 +1116,7 @@
             <div class="section-title uppercase">Bài viết <span>& Tin tức</span></div>
             <div class="blog-news d-flex flex-wrap justify-content-between mar">
                 <div class="blog-news-item">
-                    <a href="blog-item.html"><img src="./img/blog-1.jpg" alt=""></a>
+                    <a href="blog-item"><img src="./img/blog-1.jpg" alt=""></a>
                     <div class="blog-news-title">
                         <a href="">Trailer mới ra mắt!</a>
                     </div>
@@ -1325,7 +1325,7 @@
                             </li>
                             <li>
                                 <i class="fas fa-caret-right"></i>
-                                <a href="./products.html">Sản phẩm</a>
+                                <a href="products">Sản phẩm</a>
                             </li>
                             <li>
                                 <i class="fas fa-caret-right"></i>

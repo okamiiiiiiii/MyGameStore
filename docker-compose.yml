@@ -26,6 +26,14 @@ services:
     networks:
       - my-game-networks
 
+  redis:
+    build: ./docker/Redis
+    container_name: mygame-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - my-game-networks
+
   postgresql:
     build: ./docker/PostgreSQL
     container_name: mygame-postgresql
