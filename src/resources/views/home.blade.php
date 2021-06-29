@@ -31,10 +31,10 @@
     <div class="width-90 margin-auto">
         <div class="d-flex justify-content-between main-header">
             <div class="logo">
-                <a href="index.html" class="site-logo d-none d-sm-none d-md-none d-lg-block d-xl-block" title="Mygames">
+                <a href="" class="site-logo d-none d-sm-none d-md-none d-lg-block d-xl-block" title="Mygames">
                     <img src="./img/logo.png" alt="Mygames" />
                 </a>
-                <a href="index.html" class="site-logo d-block d-sm-block d-md-block d-lg-none d-xl-none" title="Mygames">
+                <a href="" class="site-logo d-block d-sm-block d-md-block d-lg-none d-xl-none" title="Mygames">
                     <img src="./img/logo-alt.png" alt="Mygames" />
                 </a>
             </div>
@@ -90,7 +90,7 @@
                 </div>
                 <nav class="main-navbar d-flex justify-content-end">
                     <ul class="navbar-menu">
-                        <li class="nav-item"><a href="index.html">Trang chủ</a></li>
+                        <li class="nav-item"><a href="">Trang chủ</a></li>
                         <li class="nav-item"><a href="products">Sản phẩm</a></li>
                         <li class="nav-item"><a href="#">About us</a></li>
                         <li class="nav-item"><a href="blogs">Blog</a></li>
@@ -116,7 +116,7 @@
             </div>
             <img src="./img/logo-alt.png" alt="">
             <ul class="navmobi">
-                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="">Trang chủ</a></li>
                 <li><a href="products">Sản phẩm</a></li>
                 <li><a href="#">About us</a></li>
                 <li><a href="#">Blog</a></li>
@@ -1321,7 +1321,7 @@
                         <ul>
                             <li>
                                 <i class="fas fa-caret-right"></i>
-                                <a href="index.html">Trang chủ</a>
+                                <a href="">Trang chủ</a>
                             </li>
                             <li>
                                 <i class="fas fa-caret-right"></i>
@@ -1479,7 +1479,7 @@
             <div class="copyright-inner d-flex align-items-center justify-content-between">
                 <div class="copyright-content">
                     <div class="copyright-logo">
-                        <a href="index.html">
+                        <a href="">
                             <img src="./img/logo.png" alt="">
                         </a>
                     </div>
@@ -1488,7 +1488,7 @@
                 <div class="copyright-nav">
                     <ul>
                         <li>
-                            <a href="index.html">Trang chủ</a>
+                            <a href="">Trang chủ</a>
                         </li>
                         <li>
                             <a href="">CSKH</a>

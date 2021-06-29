@@ -629,7 +629,7 @@
                   </li>
                   <li>
                     <i class="fas fa-caret-right"></i>
-                    <a href="./products.html">Sản phẩm</a>
+                    <a href="./products">Sản phẩm</a>
                   </li>
                   <li>
                     <i class="fas fa-caret-right"></i>
