@@ -10,7 +10,7 @@ services:
     volumes:
       - ./src:/var/www/html
     ports:
-      - "9002:9000"
+      - "9003:9000"
     networks:
       - my-game-networks
 
@@ -20,7 +20,7 @@ services:
     environment:
       TZ: Asia/Ho_Chi_Minh
     ports:
-      - "8880:80"
+      - "9990:80"
     volumes:
       - ./src:/var/www/html
     networks:
@@ -30,7 +30,7 @@ services:
     build: ./docker/Redis
     container_name: mygame-redis
     ports:
-      - "6379:6379"
+      - "6378:6379"
     networks:
       - my-game-networks
 
@@ -44,7 +44,7 @@ services:
       POSTGRES_USER: mygame
       POSTGRES_PASSWORD: 123456
     ports:
-      - "5432:5432"
+      - "5433:5432"
     logging:
       options:
         max-size: "10k"
@@ -58,7 +58,7 @@ services:
     build: ./docker/PhpPgAdmin
     container_name: mygame-phppgadmin
     ports:
-      - "8082:80"
+      - "9092:80"
     environment:
       PHP_PG_ADMIN_SERVER_HOST: postgresql
       PHP_PG_ADMIN_SERVER_DEFAULT_DB: mygame
